@@ -2,6 +2,7 @@ import pygame,random
 from data.charter import *
 from data.funtion import *
 
+print("Holi")
 def main():
     #Inicializo el sistema
     pygame.init()
